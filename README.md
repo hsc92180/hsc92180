@@ -1,250 +1,151 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Himanshu Chauhan</h1>
 
-# Hi 👋, I'm Himanshu Chauhan
+<h3 align="center">
+Backend Engineer • Java • Spring Boot • Node.js • EV Charging • Payment Systems
+</h3>
 
-### Backend Engineer • Java • Spring Boot • Node.js
-
-Building scalable backend systems, payment infrastructure, and EV Charging solutions.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Node.js+Developer;OCPI+%26+OCPP+Specialist;Payment+Gateway+Integration;Always+Learning+New+Technologies" />
-
-<p>
-
-<a href="mailto:hsc92180@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/himanshu-chauhan-092729182/">
-<img src="https://img.shields.io/badge/LinkedIn-Himanshu_Chauhan-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/hsc92180">
-<img src="https://img.shields.io/badge/GitHub-hsc92180-black?style=for-the-badge&logo=github"/>
-</a>
-
+<p align="center">
+Building scalable backend systems, real-time applications, and production-grade payment infrastructure.
 </p>
 
-</div>
+---
+
+## 🚀 About Me
+
+- 💼 Backend Engineer with **2+ years of production experience**
+- ⚡ Building EV Charging Infrastructure using **OCPP 1.6 / OCPP 2.0**
+- 🌍 Implemented **OCPI 2.2.1** integrations with Google EVCS, Statiq, Ionage & Eco-Movement
+- 💳 Integrated Payment Gateways:
+  - Razorpay
+  - Paytm
+  - HDFC
+  - Stripe
+- ☁️ Experience with AWS & Azure Cloud
+- 🔥 Passionate about scalable backend systems and system design
 
 ---
 
-# 👨‍💻 About Me
+## 🛠 Tech Stack
 
-```java
-class HimanshuChauhan {
+### Languages
 
-    String role = "Backend Engineer";
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-    String company = "AMIK Technologies";
+### Backend
 
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "TypeScript"
-    };
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-    String[] backend = {
-        "Spring Boot",
-        "Node.js",
-        "Express.js"
-    };
+### Frontend
 
-    String[] databases = {
-        "MySQL",
-        "MongoDB",
-        "PostgreSQL"
-    };
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-    String[] cloud = {
-        "AWS",
-        "Azure",
-        "Firebase"
-    };
+### Database
 
-    String[] expertise = {
-        "REST APIs",
-        "WebSockets",
-        "OCPP",
-        "OCPI",
-        "Payment Systems"
-    };
-}
-```
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+### Tools
+
+Git • GitHub • Postman • Firebase • Docker • VS Code
 
 ---
 
-# 🚀 Professional Highlights
+# 🏆 Professional Highlights
 
-⚡ 2+ Years Production Experience
+✅ OCPI 2.2.1 Roaming
 
-🌍 Implemented OCPI 2.2.1 roaming integrations
+- Google EVCS
+- Statiq
+- Ionage
+- Eco Movement
 
-🔋 EV Charging Infrastructure
+✅ OCPP 1.6 / OCPP 2.0
 
-💳 Integrated
+- Remote Start
+- Remote Stop
+- Charging Sessions
+- WebSockets
+
+✅ Payment Systems
 
 - Razorpay
 - Paytm
 - Stripe
 - HDFC
 
-☁️ AWS & Azure Cloud
+✅ Cloud Migration
 
-⚙️ Built scalable REST APIs
-
-🔄 Real-time WebSocket Applications
-
-👨‍🏫 Mentored Junior Developers
+AWS ➜ Azure
 
 ---
 
-# 🛠 Tech Stack
+# 📌 Featured Projects
 
-## Languages
+### 🚗 EV Charging Platform
+
+Production-grade backend for EV Charging Management.
+
+**Tech**
+
+Java • Spring Boot • WebSocket • MongoDB • Node.js
+
+---
+
+### 🌍 OCPI 2.2.1 Integration
+
+Roaming integration enabling charger interoperability across multiple providers.
+
+---
+
+### 💳 Payment Gateway Integration
+
+Integrated
+
+- Razorpay
+- Paytm
+- HDFC
+- Stripe
+
+with secure backend transaction handling.
+
+---
+
+### 🏠 MERN Estate Platform
+
+A full-stack real estate application with authentication, property search, and responsive UI.
+
+---
+
+# 📫 Connect With Me
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,js,ts"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-</p>
-
-## Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,git,github,postman,vscode"/>
-
-</p>
-
----
-
-# 💼 Currently Working On
-
-- ⚡ OCPI 2.2.1 eMSP Platform
-- 🔋 EV Charging Infrastructure
-- ☁️ Azure Cloud Services
-- 💳 Payment Gateway Integrations
-- 🚀 Backend Performance Optimization
-
----
-
-# 📌 Featured Expertise
-
-```text
-Backend Architecture
-        │
-        ▼
-REST APIs
-        │
-        ▼
-Authentication
-        │
-        ▼
-Business Logic
-        │
-        ▼
-Database
-        │
-        ▼
-Payment Gateway
-        │
-        ▼
-Real-time Notifications
-```
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hsc92180&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsc92180&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hsc92180&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hsc92180&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Microservices
-- System Design
-- Docker
-- Kubernetes
-- Redis
-- Kafka
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:hsc92180@gmail.com">
-📧 Email
-</a>
-
-•
 
 <a href="https://www.linkedin.com/in/himanshu-chauhan-092729182/">
 LinkedIn
 </a>
 
-•
+|
 
-<a href="https://github.com/hsc92180">
-GitHub
+<a href="mailto:hsc92180@gmail.com">
+Email
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 💙 Thanks for visiting my profile!
+⭐ If you like my work, feel free to connect with me!
 
-*"Building reliable backend systems that power real-world applications."*
-
-</div>
+</p>
