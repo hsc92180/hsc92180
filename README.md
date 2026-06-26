@@ -126,20 +126,6 @@ A full-stack real estate application with authentication, property search, and r
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hsc92180&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hsc92180&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsc92180&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
