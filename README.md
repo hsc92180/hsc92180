@@ -97,7 +97,7 @@ Production-grade backend for EV Charging Management.
 
 **Tech**
 
-Java • Spring Boot • WebSocket • MongoDB • Node.js
+Java • Spring Boot • WebSocket • Node.js • MySQL • MongoDB
 
 ---
 
